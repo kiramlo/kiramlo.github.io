@@ -1,0 +1,41 @@
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+header.startup {
+	background-position: center;
+	  background-image: url(https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252_960_720.jpg);
+	  background-size: cover;
+	  height: 100%;
+}
+
+.row {
+	align-items: center;
+}
+
+.text {
+	
+	padding: 50px 0;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	width: 100%;
+}
+
+.sign_up {
+	text-align: center;
+	width: 100%;
+
+}
+
+.sign_up button {
+	border-radius: 2rem;
+	padding-right: 30px;
+	padding-left: 30px;
+	}
+
+.row {
+	border: 1px #000;
+}
